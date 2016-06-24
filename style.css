@@ -1,0 +1,129 @@
+/* *{
+    outline: red dotted thin;
+} */
+
+a{
+    text-decoration: none;
+    color:navy;
+}
+p{
+    margin: 0 auto;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+body{
+    max-width: 720px;
+    min-width: 580px;
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.row{
+    width: 100%;
+    display: flex;
+}
+.col-1{
+    width:8.33%;
+}
+.col-2{
+    width:16.67%;
+}
+.col-3{
+    width:25%;
+}
+.col-4{
+    width:33.33%;
+}
+.col-5{
+    width:41.66%;
+}
+.col-6{
+    width:50%;
+}
+.col-7{
+    width:58.33%;
+}
+.col-8{
+    width:66.66%;
+}
+.col-9{
+    width:75%;
+}
+.col-10{
+    width:83.33%;
+}
+.col-11{
+    width:91.66%;
+}
+.col-12{
+    width:100%;
+}
+
+h1{
+    font-family: 'EB Garamond', serif;
+    font-weight: normal;
+    font-size: 36px;
+    margin: 30px 0 0 0;
+    /* color: #003C70; */
+	color: navy;
+}
+.contact{
+    font-family: 'Crimson Text', serif;
+    text-align: center;
+    margin: 0 auto;
+	padding: 0;
+    font-size: 14px;
+    font-weight:normal;
+}
+
+.nameplate{
+    margin:0 auto;
+    text-align: center;
+}
+
+.header{
+    margin:0 auto;
+    font-family: 'EB Garamond', serif;
+    text-align: center;
+    font-size: 15px;
+    font-style:normal;
+    font-weight:normal;
+}
+
+.titles{
+    margin: 10px 0 0 0;
+    font-family: 'EB Garamond', serif;
+    font-size:18px;
+    font-weight: normal;
+/*     color: #003C70; */
+	color: navy;
+}
+
+.line{
+    width : 100%;
+    border-bottom : 1px solid black;
+    margin-bottom: 8px;
+}
+
+li{
+    list-style-type:square;
+    font-family: 'Crimson Text', serif;
+    font-size: 14px;
+}
+
+li.dates{
+    list-style-type: none;
+    font-family: 'Crimson Text', serif;
+    font-size: 15px;
+    font-style:italic;
+    margin:1px 0 1px 0;
+}
+
+ul{
+    margin: 0 auto;
+}
+
+pre{
+    margin: 0 0 0 0;
+}
+
